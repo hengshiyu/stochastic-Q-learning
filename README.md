@@ -31,4 +31,4 @@ Rscript run.R
 
 ## Some Results
 We have the average lengths of confidence intervals.
-![StoQAlgo](imgs/averageCI.png | width=100)
+![results](imgs/averageCI.png | width=100)
