@@ -10,7 +10,7 @@ Three steps in a two-stage dynamic treatment regime:
 2. Step 2: Estimate first stage individual pseudo-outcome
 3. Step 3: Least square estimation using first stage pseudo-outcome 
 
-![QLearning](imgs/Q-learning.png)
+![QLearning](imgs/Q-learning.png | width=100)
 
 ## Markov decision process and Q learning
 Based on the Markov decision process, we have:  
