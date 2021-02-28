@@ -1,6 +1,6 @@
 # simulation of the data
-source('lib.R')
-source('param.R')
+source('./model/lib.R')
+source('./model/param.R')
 
 
 

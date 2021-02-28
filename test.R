@@ -1,9 +1,9 @@
 # run 
 options(warn=-1)
 # simulation of the data
-source('lib.R')
-source('param.R')
-source('simu.R')
+source('./model/lib.R')
+source('./model/param.R')
+source('./model/simu.R')
 
 eff_matrix_mtx <- se_matrix_mtx <- p_matrix_mtx <- eff_matrix_det_mtx <- se_matrix_det_mtx <- p_matrix_det_mtx <- eff_matrix_sto_mtx  <- se_matrix_sto_mtx <- p_matrix_sto_mtx <- NULL
 
